@@ -4,7 +4,7 @@ In this lecture, we will be focusing on implementing proper code style, and usin
 
 https://docs.google.com/presentation/d/1p0SPeJg2BfS9gjPoVOnjOl76UarH7hUY4vw3C18WJDI/edit?usp=sharing
 
-For the extra credit, follow the instructions at this link.
+For the extra credit, follow the instructions at this link. (Note we did not cover debugging so ignore that for now)
 
 bit.ly/CS1101-BonusLecture-Wed2019
 
